@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="taotao_manage_pojo:jar">
+    <output-path>$PROJECT_DIR$/../../错误实验</output-path>
+    <root id="archive" name="taotao_manage_pojo.jar" />
+  </artifact>
+</component>
